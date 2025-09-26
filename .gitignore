@@ -1,0 +1,37 @@
+# Environnements Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+env/
+venv/
+.ipynb_checkpoints
+
+# Conda
+*.conda
+*.lock
+*.yml
+
+# Streamlit cache
+.streamlit/
+
+# Images et fichiers lourds
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Dossier d’assets générés
+assets/
+
+# Logs
+*.log
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
